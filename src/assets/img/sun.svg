@@ -1,0 +1,11 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="50" cy="50" r="22" stroke="#FFC700" stroke-width="2" stroke-linecap="round"/>
+<line x1="81" y1="49" x2="95" y2="49" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<line x1="49" y1="20" x2="49" y2="6" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<line x1="7" y1="49" x2="21" y2="49" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<line x1="49" y1="94" x2="49" y2="80" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<line x1="71.5061" y1="28.0797" x2="81.4056" y2="18.1802" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<line x1="28.3726" y1="30.201" x2="18.4731" y2="20.3015" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<line x1="19.1802" y1="80.4056" x2="29.0797" y2="70.5061" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<line x1="80.6985" y1="82.5269" x2="70.799" y2="72.6274" stroke="#FFC700" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+</svg>
